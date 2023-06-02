@@ -1,0 +1,12 @@
+{
+  "name": "spotifyapi",
+  "version": "1.0.0",
+  "description": "Albums of entered artist will appear with the help of api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
